@@ -1,0 +1,18 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Deep Learning and Neural Networks
+torch
+
+# Image Processing
+PIL
+
+# Machine Learning Utilities
+scikit-learn
+
+# Interactive Environment
+jupyterlab
+
